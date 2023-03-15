@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldeepjadhav2000&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeepjadhav2000" /> </p>
 # 👋 Hi, I’mKuldeep Jadhav
------------------------------------------------------------------------------------------------------------------- 
+---------------------------------------------------------- 
 This repository showcases some of the projects and experiences, 
 I am a Electrical engineering student at JSPM'S Bhivrabai Sawant Institute Of Technology And Research, Pune. 
 With a strong interest in Java development and full-stack development.
