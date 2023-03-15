@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Jadhav</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FjohnmuchiriM&psig=AOvVaw0yBvewwOPP1agWMKJtauzx&ust=1678943894193000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNj-uMiX3f0CFQAAAAAdAAAAABAF">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/29ff2741f7da6031d364bd050da54882e6d57b22d0e4b5de2603b3e5f7a3aaef/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3330302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldeepjadhav2000&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeepjadhav2000" /> </p>
 
