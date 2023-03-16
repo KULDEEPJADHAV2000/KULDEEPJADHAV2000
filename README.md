@@ -24,7 +24,7 @@ With a strong interest in Java development and full-stack development.
 ## Education
 
 - Recently completed a Bachelors of Engineering in  Electrical engineering student at JSPM'S Bhivrabai Sawant Institute Of Technology And Research, Pune.
-- Completed Diploma in Electrical engineering in 2021 at Smt. S.S. Patil Polytechnic ,Chopda Jalgoan.
+- Completed Diploma in Electrical engineering in 2019 at Smt. S.S. Patil Polytechnic ,Chopda Jalgoan.
 
 ## Projects
 - The ‘Online tweetup’ is a web based application.
